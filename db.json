@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "uriel ACTUALIZADO",
+      "empresa": "uri",
+      "email": "uriel@prueba.eu",
+      "telefono": "6528615",
+      "notas": "prueba",
+      "id": 1
+    },
+    {
+      "nombre": "Rebeca",
+      "empresa": "rebe contrucction",
+      "email": "rbk_@prueba.com",
+      "telefono": "652868",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "prueba33",
+      "empresa": "prueba",
+      "email": "prueba@prueba.es",
+      "telefono": "632632142",
+      "notas": "asdfsdas",
+      "id": 3
+    }
+  ]
+}
